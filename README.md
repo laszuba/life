@@ -3,10 +3,10 @@ Simple implementation of Conway's Game of Life
 
 Notes:
 
-	- Uses curses to represent cells in the terminal.
-	- Save files are compatible with E Ink design project implementation of Life.
-	- Terminal must be big enough for all rows and columns.
-	- Code quality is terrible... Oh well.
+	* Uses curses to represent cells in the terminal.
+	* Save files are compatible with E Ink design project implementation of Life.
+	* Terminal must be big enough for all rows and columns.
+	* Code quality is terrible... Oh well.
 
 Compile with:
 ```bash
