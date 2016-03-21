@@ -1,3 +1,6 @@
+.DS_Store
+*.log
+
 # Object files
 *.o
 *.ko
